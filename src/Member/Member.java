@@ -1,9 +1,10 @@
 package Member;
 // b-branch
 public class Member {
-
-	public static void main(String[] args) {
-		
+	
+	public void member() {
+		System.out.println("회원관리 기능 완성");
 	}
+
 
 }
